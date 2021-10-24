@@ -1,0 +1,35 @@
+{
+  "name": "#12",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "file": "ipfs://ipfs/QmRva9X6K6iMj37jQEvzVZVvwDVyzAtWw5bxJ2xLxyWtQx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ]
+}
